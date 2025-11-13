@@ -15,8 +15,6 @@ Um programa simples em C# que vai, para calcular a média, e verificar a situaç
 - **Plataforma:** .NET
 - **Sistemas operacional: Windows/Linux/MacOS
 
-## Estrutura do código
+## Estrutura do código 
 
-
-<img width="580" height="307" alt="image" src="https://github.com/user-attachments/assets/c056bbf3-c395-4b2a-aa2b-b71ab4a7c80e" />
 
